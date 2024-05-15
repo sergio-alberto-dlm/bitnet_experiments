@@ -1,3 +1,5 @@
 .DS_Store
 /data_mex20
 /__pycache__
+/model
+/model_bit
