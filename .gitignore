@@ -1,7 +1,7 @@
 .DS_Store
 /data_mex20
 /__pycache__
-/model/model_best.pt
-/model_bit/model_best.pt
-/model_bit/checkpoint.pt
-/model/checkpoint.pt
+model/model_best.pt
+model_bit/model_best.pt
+model_bit/checkpoint.pt
+model/checkpoint.pt
