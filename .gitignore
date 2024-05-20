@@ -5,3 +5,5 @@ model/model_best.pt
 model_bit/model_best.pt
 model_bit/checkpoint.pt
 model/checkpoint.pt
+model_rnn/model_best.pt
+model_rnn/checkpoint.pt 
